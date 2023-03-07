@@ -1,0 +1,1 @@
+export const DataUpload = (payload)=>({type:"DATA_UPLOAD",payload});
